@@ -17,6 +17,7 @@ Notebook	Descripción
 
 
 🖥️ Aplicación Interactiva
+🚀 **[👉 Abrir la App Interactiva en Streamlit](https://desafio-de-marketing-kscadbgfnjxu6mjv4du823.streamlit.app/)**
 <img alt="Streamlit App" src="https://img.shields.io/badge/Streamlit-Interactive Dashboard-FF4B4B?logo=streamlit&amp;logoColor=white">
 🌟 desafio_marketing.py - Aplicación en Streamlit que proporciona un dashboard interactivo con:
 📈 Visualizaciones de alto nivel de las métricas de campañas
